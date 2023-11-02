@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1025434706507",
+    "project_id": "mynewyesthework",
+    "storage_bucket": "mynewyesthework.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025434706507:android:fc195b6da33765d7d723ce",
+        "android_client_info": {
+          "package_name": "com.example.note_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXXZp1qJMBlY62oCTNGOPZVqKO5y4QPSM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
